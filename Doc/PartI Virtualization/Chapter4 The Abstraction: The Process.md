@@ -26,4 +26,3 @@
 5. **data structures**
    1. process lists
    2. register context
-   3. process
